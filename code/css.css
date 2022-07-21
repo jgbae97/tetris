@@ -38,3 +38,31 @@ body {
 	height: 25px;
 	outline: 1px solid #ccc;
 }
+
+.Imino{
+	background: #009FDA
+}
+
+.Omino{
+	background: #FECB00
+}
+
+.Zmino{
+	background: #ED2939
+}
+
+.Smino{
+	background: #69BE28
+}
+
+.Jmino{
+	background: #0065BD
+}
+
+.Lmino{
+	background: #FF7900
+}
+
+.Tmino{
+	background: #952D98
+}
